@@ -1,0 +1,55 @@
+#ripple{
+  margin_top:10px;
+}
+
+#ripple1{
+  float:left;
+  font-size:15px;
+  font-weight:bold;
+  text-decoration:underline;
+}
+
+#ripple2{
+  float:left;
+  width:94%;
+  margin-left: 10px;
+  background-color: #eeeeee;
+}
+
+#ripple_title {
+	padding-top:10px;
+	padding-left:10px;
+}
+
+#ripple_title li {
+	display:inline;
+}
+
+#ripple_title li#mdi_del {
+	padding-left:20px;
+}
+
+#ripple_content {
+	padding-top:10px;
+	padding-left:10px;
+	padding-bottom:10px;
+	border-bottom:dotted 2px #cccccc;
+}
+
+#ripple_insert {
+	margin-top:10px;
+}
+
+#ripple_textarea {
+	float:left;
+}
+
+#ripple_textarea textarea{
+	border:solid 1px #cccccc;
+}
+
+#ripple_button {
+	float:left;
+	margin-left:5px;
+	margin-top:21px;
+}
